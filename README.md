@@ -16,7 +16,7 @@ Proficient in designing RESTful APIs using Django and FastAPI, optimizing databa
 
 You can view or download my resume below.
 
-➡️ **[Download Resume](./LeelaSravanthi.pdf)**
+➡️ **[Download Resume](./LeelaSravanthi (6).pdf)**
 
 ---
 
